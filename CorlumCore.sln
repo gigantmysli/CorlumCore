@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorlumCore", "CorlumCore\CorlumCore.csproj", "{1A9B1476-14D6-4839-93C0-EA70DBC15A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorlumCoreLib", "CorlumCoreLib\CorlumCoreLib.csproj", "{1B2E3F66-EEDE-4BE2-BB21-3F874B1C6021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9B1476-14D6-4839-93C0-EA70DBC15A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9B1476-14D6-4839-93C0-EA70DBC15A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9B1476-14D6-4839-93C0-EA70DBC15A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9B1476-14D6-4839-93C0-EA70DBC15A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2E3F66-EEDE-4BE2-BB21-3F874B1C6021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2E3F66-EEDE-4BE2-BB21-3F874B1C6021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2E3F66-EEDE-4BE2-BB21-3F874B1C6021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2E3F66-EEDE-4BE2-BB21-3F874B1C6021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D264E1F7-92C6-47FC-9753-5EDC64EC05B1}
+	EndGlobalSection
+EndGlobal
